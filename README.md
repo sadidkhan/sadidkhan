@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Sadid 👋  
-### M.S. Software Engineering @ Cal State Fullerton | 7+ Years of Full-Stack Dev | Building with AI, LLMs, and Reinforcement Learning
+### M.S. Software Engineering @ Cal State Fullerton | 7+ Years of Full-Stack Dev | Building AI tools with LLMs and Langchain
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadidhasan&color=blue)
 
