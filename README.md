@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🛠 I'm a full-stack software engineer with **7+ years of experience** in healthcare, fintech, and academic research.
 - 🎓 Currently pursuing my **Master’s in Software Engineering** at **California State University, Fullerton**.
-- 🔬 Working at the intersection of **Software Engineering + Generative AI + Reinforcement Learning**.
+- 🔬 Working at the intersection of **Software Engineering + Generative AI**.
 - 🧠 Passionate about developer productivity, clean architecture, and legacy system transformation.
 - 📝 I’ve written scalable microservices, migrated monoliths, and led cloud-native deployments.
 - 📚 Always learning — currently exploring **RAG pipelines** with **LLaMA 3** and **LangChain**.
@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 ### 📊 Projects & Highlights
 
 - 🧠 **LLM-Powered Virtual Assistant:** Built a RAG application using LLaMA, LangChain, and vector databases to retrieve organizational knowledge across tools like Jira, Confluence, Slack, and meeting transcripts.
-- 🧩 **Reinforcement Learning for Clustering:** Applied PPO to method call graphs to propose microservice candidates based on cohesion/coupling.
 - 🏥 **Clinical Tool for Stroke Analysis:** Built a video segmentation and annotation platform used by clinicians at Shirley Ryan Ability Lab.
 - 📦 **Microservice Migrations:** Led cloud migration and re-architecture of a production-grade financial platform, reducing outages and improving scalability.
 - 📈 **HTML to PDF Converter:** Developed a scalable in-house solution with PuppeteerSharp and Azure Functions — saved licensing costs across departments.
@@ -65,13 +64,12 @@ Here are some ideas to get you started:
 
 ### 📍 Online Profiles
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sadid-hasan/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sadidkhan/)  
 - 🧠 [LeetCode](https://leetcode.com/)  
-- 📊 [Codeforces](https://codeforces.com/)  
-- ✨ [GitHub](https://github.com/sadidhasan)
+- ✨ [GitHub](https://github.com/sadidkhan)
 
 ---
-
+<!--
 ### ✍ Writing & Contributions
 
 - 📰 Authored internal engineering blogs, documentation, and onboarding guides.
@@ -79,17 +77,17 @@ Here are some ideas to get you started:
 - 📖 Interested in open-source contributions and community mentorship.
 
 ---
-
+-->
 ### 📚 Fun Facts
 
-- 🕹 I'm a huge fan of competitive programming and architecture redesign.
+- 🕹 I'm a huge fan of architecture redesign.
 - 📖 I love reading books on system design and AI ethics.
 - 🗣 I enjoy mentoring developers and helping teams modernize legacy software.
 
 ---
 
-### 🧾 Resume & Contact
+### 🧾 Contact
 
-- 📄 View My Resume: [sadidhasan.dev/resume](https://example.com) <!-- Replace with actual link -->
-- 📬 Email Me: sadid@example.com <!-- Replace with actual email -->
+<!--- 📄 View My Resume: [sadidhasan.dev/resume](https://example.com)--> <!-- Replace with actual link -->
+- 📬 Email Me: isadid.khan@gmail.com <!-- Replace with actual email -->
 
