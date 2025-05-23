@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 
 ### 🧾 Contact
 
-<!--- 📄 View My Resume: [sadidhasan.dev/resume](https://example.com)--> <!-- Replace with actual link -->
+- 📄 View My Resume: [Resume](https://drive.google.com/file/d/12je8DFko-1xfWe0NkuveF8Gxfix_GQD9/view?usp=sharing) <!-- Replace with actual link -->
 - 📬 Email Me: isadid.khan@gmail.com <!-- Replace with actual email -->
 
