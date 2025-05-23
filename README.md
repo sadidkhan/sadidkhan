@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### 📍 Online Profiles
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sadidkhan/)  
-- 🧠 [LeetCode](https://leetcode.com/)  
+- 🧠 [LeetCode](https://leetcode.com/u/sadidkhan/)
 - ✨ [GitHub](https://github.com/sadidkhan)
 
 ---
