@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### 💻 About Me
 
-- 🛠 I'm a full-stack software engineer with **7+ years of experience** in healthcare, fintech, and academic research.
+- 🛠 I'm a full-stack software engineer with **7+ years of experience** in healthcare, fintech, GIS, and academic research.
+- 💼 Experienced in the **C# .NET Core ecosystem, MS SQL, Angular**, and **Azure**
 - 🎓 Currently pursuing my **Master’s in Software Engineering** at **California State University, Fullerton**.
 - 🔬 Working at the intersection of **Software Engineering + Generative AI**.
 - 🧠 Passionate about developer productivity, clean architecture, and legacy system transformation.
 - 📝 I’ve written scalable microservices, migrated monoliths, and led cloud-native deployments.
-- 💼 Experienced in the C# .NET Core ecosystem, MS SQL, Angular, and Azure
 - 📚 Always learning — currently exploring **RAG pipelines** with **LLaMA 3** and **LangChain**.
 
 ---
