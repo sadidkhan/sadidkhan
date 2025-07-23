@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🔬 Working at the intersection of **Software Engineering + Generative AI**.
 - 🧠 Passionate about developer productivity, clean architecture, and legacy system transformation.
 - 📝 I’ve written scalable microservices, migrated monoliths, and led cloud-native deployments.
+- 💼 Experienced in the C# .NET Core ecosystem, MS SQL, Angular, and Azure
 - 📚 Always learning — currently exploring **RAG pipelines** with **LLaMA 3** and **LangChain**.
 
 ---
@@ -68,15 +69,15 @@ Here are some ideas to get you started:
 - ✨ [GitHub](https://github.com/sadidkhan)
 
 ---
-<!--
+
 ### ✍ Writing & Contributions
 
-- 📰 Authored internal engineering blogs, documentation, and onboarding guides.
+- 📰 Authored internal engineering documentation, Confluence, and onboarding guides.
 - 🧪 Wrote unit, integration, and system tests for healthcare and fintech platforms.
 - 📖 Interested in open-source contributions and community mentorship.
+- ✍ Read my writing on [Medium](https://medium.com/@sadidkhan) | 🧠 See my answers on [Stack Overflow](https://stackoverflow.com/users/1999720/sadid-khan)
 
 ---
--->
 ### 📚 Fun Facts
 
 - 🕹 I'm a huge fan of architecture redesign.
