@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Sadid 👋  
-### M.S. Software Engineering @ Cal State Fullerton | 7+ Years of Full-Stack Dev | Building AI tools with LLMs and Langchain
+### M.S. Software Engineering @ Cal State Fullerton | 7+ Years of Full-Stack Dev | C#, .NET, Angular, Azure | Building AI tools with Python, LLMs and Langchain
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadidhasan&color=blue)
 
