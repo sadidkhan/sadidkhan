@@ -54,7 +54,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Projects & Highlights
-
+### 🛰️ [RIPE IP Geolocation Tool](https://github.com/sadidkhan/ripe-ip-geolocation)
+A Python-based framework that analyzes **RIPE Atlas** traceroute data to understand **global network architecture**, **IXP (Internet Exchange Point)** connectivity, and **AS-level routing patterns**.  
+- Utilizes **GeoLite2**, **RIPE Atlas API**, and **FastAPI** for data processing and visualization.  
+- Helps researchers explore latency, geolocation accuracy, and continental routing diversity.  
 - 🧠 **LLM-Powered Virtual Assistant:** Built a RAG application using LLaMA, LangChain, and vector databases to retrieve organizational knowledge across tools like Jira, Confluence, Slack, and meeting transcripts.
 - 🏥 **Clinical Tool for Stroke Analysis:** Built a video segmentation and annotation platform used by clinicians at Shirley Ryan Ability Lab.
 - 📦 **Microservice Migrations:** Led cloud migration and re-architecture of a production-grade financial platform, reducing outages and improving scalability.
