@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 About Me
-
-- 🛠 I'm a full-stack software engineer with **7+ years of experience** in healthcare, fintech, GIS, and academic research.
+- 🎓 **Graduate Assistant at California State University, Fullerton**  
+- 🛠 Before joining CSUF, I worked for **7+ years** in the software industry, designing and delivering scalable systems in **FinTech**, **Healthcare**, and **GIS** domains.
 - 💼 Experienced in the **C# .NET Core ecosystem, MS SQL, Angular**, and **Azure**
 - 🎓 Currently pursuing my **Master’s in Software Engineering** at **California State University, Fullerton**.
 - 🔬 Working at the intersection of **Software Engineering + Generative AI**.
@@ -54,14 +54,19 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Projects & Highlights
-### 🛰️ [RIPE IP Geolocation Tool](https://github.com/sadidkhan/ripe-ip-geolocation)
-A Python-based framework that analyzes **RIPE Atlas** traceroute data to understand **global network architecture**, **IXP (Internet Exchange Point)** connectivity, and **AS-level routing patterns**.  
-- Utilizes **GeoLite2**, **RIPE Atlas API**, and **FastAPI** for data processing and visualization.  
-- Helps researchers explore latency, geolocation accuracy, and continental routing diversity.  
+- 🛰️ **RIPE IP Geolocation Tool**(https://github.com/sadidkhan/ripe-ip-geolocation): A Python-based framework that analyzes **RIPE Atlas** traceroute data to understand connectivity, Utilizes **GeoLite2**, **RIPE Atlas API**, and **FastAPI** for data processing and visualization which will help researchers explore latency, geolocation accuracy, and continental routing diversity.  
 - 🧠 **LLM-Powered Virtual Assistant:** Built a RAG application using LLaMA, LangChain, and vector databases to retrieve organizational knowledge across tools like Jira, Confluence, Slack, and meeting transcripts.
 - 🏥 **Clinical Tool for Stroke Analysis:** Built a video segmentation and annotation platform used by clinicians at Shirley Ryan Ability Lab.
 - 📦 **Microservice Migrations:** Led cloud migration and re-architecture of a production-grade financial platform, reducing outages and improving scalability.
 - 📈 **HTML to PDF Converter:** Developed a scalable in-house solution with PuppeteerSharp and Azure Functions — saved licensing costs across departments.
+
+---
+
+## 🧠 Interests
+- Software Architecture & Modularization  
+- AI for Developer Productivity  
+- Network Measurement & Internet Infrastructure  
+- Cloud-Native Microservices  
 
 ---
 
@@ -86,6 +91,12 @@ A Python-based framework that analyzes **RIPE Atlas** traceroute data to underst
 - 🕹 I'm a huge fan of architecture redesign.
 - 📖 I love reading books on system design and AI ethics.
 - 🗣 I enjoy mentoring developers and helping teams modernize legacy software.
+
+---
+
+## 📈 GitHub Stats
+![Sadid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadidkhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadidkhan&layout=compact&theme=tokyonight)
 
 ---
 
