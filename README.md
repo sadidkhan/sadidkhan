@@ -94,9 +94,11 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 ![Sadid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadidkhan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadidkhan&layout=compact&theme=tokyonight)
+-->
 
 ---
 
