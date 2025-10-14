@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Mohammod Shaikh Sadid Khan
+
+Sadid Khan
+sadidkhan
+sadid khan
+CSUF
+
 -->
 
 # Hi there, I'm Sadid 👋  
