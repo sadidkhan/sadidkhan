@@ -112,6 +112,6 @@ CSUF
 
 ### 🧾 Contact
 
-- 📄 View My Resume: [Resume](https://drive.google.com/file/d/12je8DFko-1xfWe0NkuveF8Gxfix_GQD9/view?usp=sharing) <!-- Replace with actual link -->
+- 📄 View My Resume: [Resume](https://drive.google.com/file/d/1tyWpQ5Mr5syhAGd5GXZ3iO4Wv3b7887C/view?usp=drive_link) <!-- Replace with actual link -->
 - 📬 Email Me: isadid.khan@gmail.com <!-- Replace with actual email -->
 
