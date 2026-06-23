@@ -37,7 +37,7 @@ CSUF
 - 🔬 Working at the intersection of **Software Engineering + Generative AI**.
 - 🧠 Passionate about developer productivity, clean architecture, and legacy system transformation.
 - 📝 I’ve written scalable microservices, migrated monoliths, and led cloud-native deployments.
-- 📚 Always learning — currently exploring **RAG pipelines** with **LLaMA 3** and **LangChain**.
+- 📚 Always learning — currently building AI Applications and **RAG** with **LLaMA 3** and **LangChain**.
 
 ---
 
